@@ -1,3 +1,7 @@
+::selection {
+    background-color: transparent;
+}
+
 body {
     /* background-color: #46C7C7; */
     background-color: black;
@@ -32,7 +36,7 @@ body {
     font-size: 150px;
 }
 
-.triggers div {
+.triggers button {
     display: flex;
     justify-content: center;
     align-items: center;
